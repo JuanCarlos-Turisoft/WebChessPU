@@ -1,1 +1,1 @@
-# WebChessPU
+# ChessPU
